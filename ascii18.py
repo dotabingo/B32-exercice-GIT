@@ -1,2 +1,5 @@
 def print_art():
-	print("allo")
+	print(" |\__/,|   (`\");
+	print(" |_ _  |.--.) )");
+	print(" ( T   )     / ");
+	print("(((^_(((/(((_/");
